@@ -5,7 +5,7 @@
 - 📫 How to reach me on
 <a href="https://www.instagram.com/ranggaamyd/" target="_blank">Instagram</a>, 
 <a href="https://twitter.com/ranggaamyd"  target="_blank">Twitter</a>, 
-<a href="https://www.linkedin.com/in/ranggaamyd/" target="_blank">LinkedIn</a>, and 
+<a href="https://www.linkedin.com/in/ranggamyd/" target="_blank">LinkedIn</a>, and 
 <a href="https://medium.com/@ranggaamyd" target="_blank">Medium</a>
 
 <!---
